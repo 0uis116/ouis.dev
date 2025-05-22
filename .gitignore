@@ -1,0 +1,16 @@
+# VS Code
+.vscode/
+
+# System-Dateien
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Node.js (nur falls du später npm nutzt)
+node_modules/
+
+# Jekyll
+_site/
+.sass-cache/
