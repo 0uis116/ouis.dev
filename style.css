@@ -18,7 +18,7 @@ body {
   filter: blur(2px);
 }
 .content {
-  position: center;
+  position: bottom middle;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
