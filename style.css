@@ -15,10 +15,10 @@ body {
   bottom: 0;
   min-width: 100%; 
   min-height: 100%;
-  filter: blur(20px);
+  filter: blur(2px);
 }
 .content {
-  position: middle;
+  position: center;
   bottom: 0;
   background: rgba(0, 0, 0, 0.5);
   color: #f1f1f1;
