@@ -16,8 +16,6 @@ body {
   min-width: 100%; 
   min-height: 100%;
 }
-
-<!--
 .content {
   position: fixed;
   bottom: 0;
@@ -25,7 +23,5 @@ body {
   color: #f1f1f1;
   width: 100%;
   padding: 20px;
-}
--->
 }
 </style>
